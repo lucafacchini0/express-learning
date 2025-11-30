@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+
 * {
-    background: red;
+    background: rgb(197, 160, 248);
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+a {
+    font-style: italic;
+    text-decoration: none;
+    color: blue;
+    font-size: 35px;
 }

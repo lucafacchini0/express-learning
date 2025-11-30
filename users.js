@@ -1,5 +1,6 @@
-const people = [
+const users = [
     {
+        id: "1",
         name: "Luca",
         surname: "Facchini",
         age: "18",
@@ -11,6 +12,7 @@ const people = [
         interests: ["Gym", "Coding"]
     },
     {
+        id: "2",
         name: "Anna",
         surname: "Zuckemberg",
         age: "138",
@@ -23,4 +25,4 @@ const people = [
     }
 ]
 
-module.exports = { people };
+module.exports = { users };
