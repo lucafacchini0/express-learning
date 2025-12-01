@@ -23,7 +23,7 @@ const users = [
         },
         interests: ["Hacking", "Walking the dog"]
     },
-        {
+    {
         id: "3",
         name: "Alessandro",
         surname: "Zuckemberg",
@@ -35,7 +35,7 @@ const users = [
         },
         interests: ["Hacking", "Walking the dog"]
     },
-        {
+    {
         id: "4",
         name: "Mirko",
         surname: "Zuckemberg",
@@ -47,7 +47,7 @@ const users = [
         },
         interests: ["Hacking", "Walking the dog"]
     },
-        {
+    {
         id: "5",
         name: "Matteo",
         surname: "Zuckemberg",
@@ -59,7 +59,7 @@ const users = [
         },
         interests: ["Hacking", "Walking the dog"]
     },
-        {
+    {
         id: "6",
         name: "Lucas",
         surname: "Zuckemberg",

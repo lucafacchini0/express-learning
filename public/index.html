@@ -7,10 +7,10 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <nav>
-        <a href="about.html">About</a>
-    </nav>
-    <h1>Hello everyone!</h1>
-    <h4>This is the homepage.</h4>
+    <form action="/api/users" method="POST">
+        <input type="text" name="name" placeholder="Insert name">
+        <input type="text" name="surname" placeholder="Insert surname">
+        <button type="submit">Submit</button>
+    </form>
 </body>
 </html>
